@@ -3,7 +3,7 @@
     <i>
         Silver here.<br>
         Currently studying Cibersecurity.<br>
-        I'm intererested about Cibersecurity, Frameworks, OS (specially Linux distributions), and Bashsc
+        I'm intererested about Cibersecurity, Frameworks, OS (specially Linux distributions), and Bashscripting
     </i><br>
 </p>
 
