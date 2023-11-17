@@ -1,8 +1,8 @@
 <h1 align="center">Hi everyone!!</h1>
 <p align="center">
     <i>
-        Silver here. 
-        Currently studying Cibersecurity.  
+        Silver here.<br>
+        Currently studying Cibersecurity.<br>
         I'm intererested about Cibersecurity, Frameworks, OS (specially Linux distributions), and Bashsc
     </i><br>
 </p>
